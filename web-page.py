@@ -1,1 +1,2 @@
-python3 -m http.server 9000
+import http.server
+python3 -m http.server
